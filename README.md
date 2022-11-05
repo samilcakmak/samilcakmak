@@ -13,4 +13,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samilcakmak&theme=midnight-purple)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emreocell&label=Profile%20views&color=0e75b6&style=flat" alt="samilcakmak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsamil&label=Profile%20views&color=0e75b6&style=flat" alt="samilcakmak" /> </p>
